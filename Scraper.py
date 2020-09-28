@@ -172,5 +172,6 @@ if __name__ == "__main__":
             all_emails = connection.bulkScan(profile_list)
             for email in all_emails:
                 print(email)
+                connection.saveEmail(email)
     else:
         print("Unable to login to LinkedIn!")
