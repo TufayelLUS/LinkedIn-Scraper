@@ -8,6 +8,16 @@ It collects 10k profiles from LinkedIn directory and their details like name, cu
 <pre>pip3 install requests</pre>
 3. Account in LinkedIn is a must! You can create temporary profiles if you want.
 
+# Variants Details
+<code>Random_Scraper.py</code> is the initial development of the scraper that collects up to 10k random linkedin profiles from directory and picks info from their profile<br>
+<code>CompanyWise_Leads.py</code> is the revised version of the code to be able to collect company wise employee profiles for more leads information.
+
+# Limits
+* Do not login from IP address from where you don't usually login to your linkedin account, otherwise it will trigger their security system and won't let you login.
+* Result is limited to 10,000 records only
+* First page data is not collected due to being away from API endpoint capability.
+
 # Usage
-Once you have installed and setup the prerequisites, you can double click the Scraper.py to execute and for linux or mac users, in the terminal, cd to script folder and type<br>
-<pre>python3 Scraper.py</pre>
+Once you have installed and setup the prerequisites, you can double click the <b>Random_Scraper.py</b> or <b>CompanyWise_Leads.py</b> to execute and for linux or mac users, in the terminal, cd to script folder and type<br>
+<pre>python3 Random_Scraper.py</pre>Or,
+<pre>python3 CompanyWise_Leads.py</pre>
