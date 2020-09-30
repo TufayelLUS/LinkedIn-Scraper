@@ -18,7 +18,7 @@ It collects 10k profiles from LinkedIn directory and their details like name, cu
 * First page data is not collected due to being away from API endpoint capability.
 
 # Usage
-Once you have installed and setup the prerequisites, open the code(.py file) with a text editor(must not be any rich text editor) and you will see linkedin_email and linkedin_password variables.<br>Put your linkedin email and password there and save the code<br>
+Once you have installed and setup the prerequisites, open the code(.py file) with a text editor(must not be any rich text editor) and you will see linkedin_email and linkedin_password variables.<br>Put your linkedin email and password there(inside the double quote) and save the code<br>
 Now you can double click the <b>Random_Scraper.py</b> or <b>CompanyWise_Leads.py</b> to execute and for linux or mac users, in the terminal, cd to script folder and type<br>
 <pre>python3 Random_Scraper.py</pre>Or,
 <pre>python3 CompanyWise_Leads.py</pre>
