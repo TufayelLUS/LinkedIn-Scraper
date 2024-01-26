@@ -16,7 +16,7 @@ s = requests.Session()
 company_link = "https://www.linkedin.com/company/unilever/"  # target company link
 output_file_name = "leads.csv"  # output CSV excel file name
 pagination_delay = 5  # delay in seconds before going to the next page
-cookies = ""  # place cookie here
+cookies = ''  # place cookie here
 
 
 class LinkedIn:
