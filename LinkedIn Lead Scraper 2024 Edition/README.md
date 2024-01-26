@@ -19,7 +19,8 @@ Automating LinkedIn goes against their terms of service guidelines. As this repo
 1. Login to LinkedIn from your Chrome browser(or your favorite one) and navigate to <a href="https://www.linkedin.com/company/unilever/">https://www.linkedin.com/company/unilever/</a>
 2. Right-click anywhere on that page and select "Inspect".
 3. Go to the "networks" tab and in the "Filter" input box, type "graphql" and refresh the web page again while keeping the networks tab open.
-4. You will see some matches shown below. Click on that, locate the "Headers" tab, copy the value from the cookies Response header, and paste it into the cookies placeholder of the script. 
+4. You will see some matches shown below. Click on that, locate the "Headers" tab, copy the value from the cookies Response header, and paste it into the cookies placeholder of the script.
+<img src="https://raw.githubusercontent.com/TufayelLUS/LinkedIn-Scraper/master/LinkedIn%20Lead%20Scraper%202024%20Edition/help.png" />
 
 # Usage
 Once you have installed and set the prerequisites, open the code(.py file) with a text editor(must not be any rich text editor) and you will see the <i>company_link</i> placeholder to set the company link and cookie data(inside the double quote) and save the code<br>
