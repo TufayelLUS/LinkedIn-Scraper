@@ -7,9 +7,11 @@ This version no longer requires your login information, on the other hand, it wi
 2. Installation of below module using command line
 <pre>pip3 install requests</pre>
 3. An account on LinkedIn is a must! You can create temporary profiles if you want.
+* For more detailed instructions, please check the main readme file <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/blob/master/README.md">here</a>.
 
 # Disclaimer
-Automating LinkedIn goes against their terms of service guidelines. As this repository is in demand, I thought of publishing a revised version according to the 2024 version of the website. Any issues with your LinkedIn account after using this script will be your liability. 
+Automating LinkedIn goes against their terms of service guidelines. As this repository is in demand, I thought of publishing a revised version according to the 2024 version of the website. Any issues with your LinkedIn account after using this script will be your liability.
+If you want to stay on the safe side, you may check <a href="https://nubela.co/proxycurl?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=tufayel_linkedin-scraper">Proxycurl APIs</a> to stay safe(FREE trial access is available).
 
 # Limits
 * Do not run it from an IP address from where you don't usually login to your LinkedIn account, otherwise, it may trigger their security system.
