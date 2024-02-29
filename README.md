@@ -38,12 +38,14 @@ This will show some installation progress and will install the library eventuall
 
 # Variants Details
 <code>Random_Scraper.py</code> is the initial development of the scraper that collects up to 10k random LinkedIn profiles from the directory and picks info from their profile<br>
-<code>CompanyWise_Leads.py</code> is the revised version of the code to be able to collect company wise employee profiles for more leads information.
+<code>CompanyWise_Leads.py</code> is the revised version of the code to be able to collect company wise employee profiles for more leads information.<br>
+If you're having issues with the login-based version(the base script), you can try either the <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/LinkedIn%20Lead%20Scraper%202024%20Edition">cookie version</a> (doesn't have e-mail scraping ability) or the <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/ProxyCurl_Version">ProxyCurl API integrated version</a> (Allows searching location, roles and have e-mail scraping capabilities)
 
 # Limits
 * Do not log in from the IP address from where you don't usually login to your LinkedIn account, otherwise, it will trigger their security system and won't let you log in.
 * Result is limited to 10,000 records only (this is a limitation from LinkedIn's side)
 * First-page data is not collected due to being away from API endpoint capability. But the <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/LinkedIn%20Lead%20Scraper%202024%20Edition">cookie version</a> will get you covered.
+* For searching by location or by role, or if you don't want to use your own LinkedIn account, you have to use the <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/ProxyCurl_Version">ProxyCurl version</a> as they offer this ability.
 
 # Disclaimer
 Do not flood LinkedIn using your account on a large number to avoid issues with your account. If you want to anonymously scrape LinkedIn Leads for your business, you can check <a href="https://nubela.co/proxycurl?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=tufayel_linkedin-scraper">Proxycurl APIs</a> to stay on the safe side (they offers trial access too for FREE!). 
