@@ -3,8 +3,7 @@
 # Github: https://www.github.com/TufayelLUS
 # LinkedIn: https://www.linkedin.com/in/tufayel-ahmed-cse/
 # Follow me on GitHub for more premium projects!
-# This script collects all *COMPANY WISE* profiles listed in LinkedIn
-# This version doesn't collect e-mail addresses as of now
+# This script collects all *COMPANY WISE* profiles listed in LinkedIn with their e-mail address data if available
 # Get your API Key from https://nubela.co/proxycurl?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=tufayel_linkedin-scraper
 import requests
 import csv
