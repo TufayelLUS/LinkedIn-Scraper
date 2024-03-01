@@ -1,6 +1,6 @@
-# LinkedIn Lead Scraper 🚀<br><br>Having trouble with the base version? Check the "Cookie Based" version <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/LinkedIn%20Lead%20Scraper%202024%20Edition">here</a><br>Need location filter or role filter? <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/ProxyCurl_Version">Check this version</a>
+# LinkedIn Lead Scraper 🚀
 A LinkedIn Scraper to scrape up to 10k LinkedIn profiles and save their e-mail addresses if available!<br>
-It collects 10k profiles from the LinkedIn directory and their details like name, current position/headline, and location information. After all profiles are collected, it starts finding their email addresses
+It collects 10k profiles from the LinkedIn directory and their details like name, current position/headline, and location information. After all profiles are collected, it starts finding their email addresses. You can narrow down your searches based on location, role, etc.
 <br><br>
 <a href="https://nubela.co/proxycurl?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=tufayel_linkedin-scraper"><img src="https://raw.githubusercontent.com/TufayelLUS/LinkedIn-Scraper/master/proxycurl.png" width="300px" height="100%" /></a><br>
  <b>Scrape public LinkedIn profile data at scale with <a href="https://nubela.co/proxycurl?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=tufayel_linkedin-scraper">Proxycurl APIs</a>.</b><br>
@@ -12,7 +12,10 @@ It collects 10k profiles from the LinkedIn directory and their details like name
  • Fresh data- 88% of data is scraped real-time, other 12% are not older than 29 days<br>
  • High accuracy<br>
  • Tons of data points returned per profile<br>
- Built for developers, by developers<br>
+ Built for developers, by developers<be>
+
+# Trouble with the base version? Check the "Cookie Based" version <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/LinkedIn%20Lead%20Scraper%202024%20Edition">here</a><br>Need location filter or role filter? <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/ProxyCurl_Version">Check this version</a>
+
 
 # Installation Guide
 1. First, download Python software from Python's official website. Python 3.x only is supported. Download from <a href="https://python.org/downloads">here</a> or for a precise Python version, <a href="https://www.python.org/downloads/release/python-3118/">download this version</a> and scroll to the bottom to download the correct version based on your operating system and <b>make sure to tick on "Add to PATH" during installation in windows machines</b>
