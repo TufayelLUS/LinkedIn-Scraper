@@ -11,11 +11,10 @@ This version no longer requires your login information, on the other hand, it wi
 
 # Disclaimer
 Automating LinkedIn goes against their terms of service guidelines. As this repository is in demand, I thought of publishing a revised version according to the 2024 version of the website. Any issues with your LinkedIn account after using this script will be your liability.
-If you want to stay on the safe side, you may check <a href="https://nubela.co/proxycurl?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=tufayel_linkedin-scraper">Proxycurl APIs</a> to stay safe(FREE trial access is available).
 
 # Limits
 * Do not run it from an IP address from where you don't usually login to your LinkedIn account, otherwise, it may trigger their security system.
-* Result is limited to 10,000 records only
+* Result is limited to 1,000 records only
 
 # How to collect cookies?
 1. Login to LinkedIn from your Chrome browser(or your favorite one) and navigate to <a href="https://www.linkedin.com/company/unilever/">https://www.linkedin.com/company/unilever/</a>
@@ -26,5 +25,5 @@ If you want to stay on the safe side, you may check <a href="https://nubela.co/p
 
 # Usage
 Once you have installed and set the prerequisites, open the code(.py file) with a text editor(must not be any rich text editor) and you will see the <i>company_link</i> placeholder to set the company link and cookie data(inside the double quote) and save the code<br>
-Now you can double click the <b>LinkedIn_Leads.py</b> to execute and for Linux or mac users, in the terminal, cd to the script folder and type<br>
+Now you can double click the <b>LinkedIn_Leads.py</b> to execute and for Linux or Mac users, in the terminal, cd to the script folder and type<br>
 <pre>Python3 LinkedIn_Leads.py</pre>
