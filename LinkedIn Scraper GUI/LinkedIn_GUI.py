@@ -171,7 +171,7 @@ class LinkedInScraperGUI(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        self.title("LinkedIn Company Profile Scraper")
+        self.title("LinkedIn Company Employee Profile Scraper - By Tufayel Ahmed (TufayelLUS)")
         self.geometry("800x700")
         self.resizable(False, False)
 
