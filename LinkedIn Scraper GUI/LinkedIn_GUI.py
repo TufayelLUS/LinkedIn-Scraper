@@ -174,10 +174,6 @@ class LinkedInScraperGUI(ctk.CTk):
         self.title("LinkedIn Company Profile Scraper")
         self.geometry("800x700")
         self.resizable(False, False)
-        # Modes: system (default), light, dark
-        ctk.set_appearance_mode("System")
-        # Themes: blue (default), dark, green
-        ctk.set_default_color_theme("blue")
 
         # Load config
         self.config_data = load_config()
