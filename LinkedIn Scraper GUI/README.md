@@ -5,11 +5,14 @@ This version no longer requires your login information, on the other hand, it wi
 # Screenshot
 <img src="https://raw.githubusercontent.com/TufayelLUS/LinkedIn-Scraper/refs/heads/master/LinkedIn%20Scraper%20GUI/UI.png" />
 
+# Features
+* Supports storing cookie information in a file so you don't have to save it multiple times.
+* Customizable Request delay system.
+* Leads saved in the same folder as the software executable.
+* Download and use, no installation required.
+
 # Prerequisites
-1. Python 3.x only (Download from <a href="https://python.org/downloads">here</a>) and <b>make sure to tick on "Add to PATH" during installation in Windows machines</b>
-2. Installation of below module using command line
-<pre>pip3 install -r requirements.txt</pre>
-3. An account on LinkedIn is a must! You can create temporary profiles if you want.
+1. An account on LinkedIn is a must! You can create temporary profiles if you want.
 * For more detailed instructions, please check the main readme file <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/blob/master/README.md">here</a>.
 
 # Disclaimer
@@ -27,6 +30,4 @@ Automating LinkedIn goes against their terms of service guidelines. As this repo
 <img src="https://raw.githubusercontent.com/TufayelLUS/LinkedIn-Scraper/master/LinkedIn%20Lead%20Scraper%202024%20Edition/help.png" />
 
 # Usage
-Once you have installed and set the prerequisites, open the code(.py file) with a text editor(must not be any rich text editor) and you will see the <i>company_link</i> placeholder to set the company link and cookie data(inside the double quote) and save the code<br>
-Now you can double click the <b>LinkedIn_Leads.py</b> to execute and for Linux or Mac users, in the terminal, cd to the script folder and type<br>
-<pre>Python3 LinkedIn_Leads.py</pre>
+Open the software as it's a GUI software and you can use it since everything is self explanatory.
