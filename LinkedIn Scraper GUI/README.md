@@ -3,7 +3,10 @@ This is a GUI version of the existing LinkedIn scraper that will collect company
 This version no longer requires your login information, on the other hand, it will use your logged-in browser cookies instead. Keep reading, you'll get to know how to collect them from your account.
 
 # Screenshot
+* Windows:
 <img src="https://raw.githubusercontent.com/TufayelLUS/LinkedIn-Scraper/refs/heads/master/LinkedIn%20Scraper%20GUI/UI.png" />
+* Ubuntu via Wine:<br><br>
+<img src="https://raw.githubusercontent.com/TufayelLUS/LinkedIn-Scraper/refs/heads/master/LinkedIn%20Scraper%20GUI/UI-linux.png" />
 
 # Features
 * Supports storing cookie information in a file so you don't have to save it multiple times.
