@@ -2,6 +2,9 @@
 This is a GUI version of the existing LinkedIn scraper that will collect company-wise leads under any company such as <a href="https://www.linkedin.com/company/unilever/">https://www.linkedin.com/company/unilever/</a><br>
 This version no longer requires your login information, on the other hand, it will use your logged-in browser cookies instead. Keep reading, you'll get to know how to collect them from your account.
 
+# Screenshot
+<img src="https://raw.githubusercontent.com/TufayelLUS/LinkedIn-Scraper/refs/heads/master/LinkedIn%20Scraper%20GUI/UI.png" />
+
 # Prerequisites
 1. Python 3.x only (Download from <a href="https://python.org/downloads">here</a>) and <b>make sure to tick on "Add to PATH" during installation in Windows machines</b>
 2. Installation of below module using command line
