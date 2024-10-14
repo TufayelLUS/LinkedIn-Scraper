@@ -4,8 +4,14 @@ It collects 10k profiles from the LinkedIn directory and their details like name
 <br><br>
 # Trouble with the base version? Check the "Cookie Based" version <a href="https://github.com/TufayelLUS/LinkedIn-Scraper/tree/master/LinkedIn%20Lead%20Scraper%202024%20Edition">here</a><br>
 
+# Windows Compiled GUI Version
+<a href="https://github.com/TufayelLUS/LinkedIn-Scraper/raw/refs/heads/master/LinkedIn%20GUI%20win64%20compiled.zip">Download from here</a>
 
-# Installation Guide
+# GUI Version Screenshot
+<img src="https://raw.githubusercontent.com/TufayelLUS/LinkedIn-Scraper/refs/heads/master/LinkedIn%20Scraper%20GUI/UI.png" /><br><br>
+If you want to run the Windows compiled version on Linux, you can install Wine and try it.
+
+# Installation Guide for Source Code Version
 1. First, download Python software from Python's official website. Python 3.x only is supported. Download from <a href="https://python.org/downloads">here</a> or for a precise Python version, <a href="https://www.python.org/downloads/release/python-3118/">download this version</a> and scroll to the bottom to download the correct version based on your operating system and <b>make sure to tick on "Add to PATH" during installation in windows machines</b>
 2. Now, from the start menu (Windows) or Applications list (Linux/Mac), search for Command Prompt (Windows) or terminal (on Mac/Linux) and copy-paste the command written below:
 <pre>pip3 install requests</pre><br>
