@@ -47,4 +47,5 @@ If you're having issues with the login-based version(the base script), you can t
 Do not flood LinkedIn using your account on a large number to avoid issues with your account. I don't hold any responsibility if you face issues with your account in the future. Use at your own risk!
 
 # Loved This Open Source Project?
-Star the repository and share it with your friends who might need this. More variants of the LinkedIn Scraper will come soon. Keep this on watch for more updates!
+Star the repository and share it with your friends who might need this. More variants of the LinkedIn Scraper will come soon. Keep this on watch for more updates!<br>
+If you want to sponsor or buy me a coffee, reach out to my <a href="https://www.linkedin.com/in/tufayel-ahmed-cse/">LinkedIn</a> or <a href="https://x.com/cse_tufayel">X (formerly Twitter)</a>
